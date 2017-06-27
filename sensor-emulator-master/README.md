@@ -1,4 +1,6 @@
 # sensor-emulator
+https://github.com/egen/sensor-emulator
+
 Simple java program that acts like a sensor and sends information (in JSON format) every 5 seconds. Sample data looks like this,
 
 ```json
